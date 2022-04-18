@@ -1,4 +1,4 @@
-# todo_app
+# Social_app
 
 A new Flutter application.
 
